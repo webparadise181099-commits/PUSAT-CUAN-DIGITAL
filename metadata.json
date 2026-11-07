@@ -1,0 +1,6 @@
+{
+  "name": "Pusat Cuan Digital",
+  "description": "Temukan Alat Digital, Ide, dan Inspirasi untuk Mengembangkan Usaha Anda. Prompt AI siap pakai, alat online gratis, ide konten, dan panduan bisnis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
